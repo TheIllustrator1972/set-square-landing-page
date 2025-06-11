@@ -10,6 +10,7 @@ export const appData = {
     website: "https://nileshkamble.co.in/",
   },
   appStoreLink: "https://apps.apple.com/in/developer/nilesh-kamble/",
+  googleAnalytics: "G-79RSJGVM5X",
 };
 
 export const openGraphMetadata = {

@@ -30,7 +30,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const GoogleAnalyticsId = "G-B28R21DJWJ";
+  const GoogleAnalyticsId = appData.googleAnalytics;
   return (
     <html lang="en" className={roboto.variable}>
       <head>
