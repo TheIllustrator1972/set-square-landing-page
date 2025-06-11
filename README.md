@@ -1,4 +1,4 @@
-# Indie App Landing Page Template
+# Set Square Landing Page
 
 A responsive and customizable landing page template built with Next.js, TypeScript, and Tailwind CSS, perfect for showcasing your new indie application.
 
